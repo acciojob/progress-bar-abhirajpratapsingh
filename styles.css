@@ -42,3 +42,8 @@ button:disabled {
   cursor: not-allowed;
   background-color: #ccc;
 }
+.circle{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
